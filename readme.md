@@ -2,7 +2,8 @@
 This repository contains an Excel VBA tool for calculating the minimum vertical and horizontal distances from a hole to the wall, based on the requirements of DIN EN 1993. The tool offers two calculation options (A and B) and is implemented in Microsoft Excel to provide a simple and user-friendly interface for engineers and technicians.
 
 ## Preview
-geometrischeanf
+![Calculate geometric requirements for eye rods](https://user-images.githubusercontent.com/123315352/227931954-39f451ae-2401-4343-ba2c-32826fe91a92.gif)
+
 
 ## Installation
 You need an Excel license for this code to run. Then follow this tutorial in order to show the Developer Tab on your Excel ribbon.
