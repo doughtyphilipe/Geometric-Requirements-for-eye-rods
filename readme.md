@@ -9,29 +9,31 @@ This repository contains an Excel VBA tool for calculating the minimum vertical 
 You need an Excel license for this code to run. Then follow this tutorial in order to show the Developer Tab on your Excel ribbon.
 
 ## Features
-Calculation of the minimum vertical and horizontal distances from a hole to the wall according to DIN EN 1993
-Two calculation options (A and B) with different input parameters
-User-friendly Excel interface with buttons for calculation, resetting, and closing the tool
-Input Parameters
+* Calculation of the minimum vertical and horizontal distances from a hole to the wall according to DIN EN 1993
+* Two calculation options (A and B) with different input parameters
+* User-friendly Excel interface with buttons for calculation, resetting, and closing the tool
+* Input Parameters
+
 Option A
-gamma_M0: Safety factor
-t [mm]: Thickness of the material
-fy [N/mm²]: Yield strength of the material
-d0 [mm]: Diameter of the hole
-F_ed [N]: Applied force
+* gamma_M0: Safety factor
+* t [mm]: Thickness of the material
+* fy [N/mm²]: Yield strength of the material
+* d0 [mm]: Diameter of the hole
+* F_ed [N]: Applied force
+
 
 Option B
-gamma_M0: Safety factor
-fy [N/mm²]: Yield strength of the material
-F_ed [N]: Applied force
+* gamma_M0: Safety factor
+* fy [N/mm²]: Yield strength of the material
+* F_ed [N]: Applied force
 
 ## Usage
-Open the Excel file and click on the button "Calculate Geometric Requirements for Eye Bars".
-Choose the desired calculation option (A or B) and enter the required input parameters.
-Click on the "Calculate Dimensions" button to calculate the minimum vertical and horizontal distances from a hole to the wall.
-The results will be displayed automatically in the corresponding cells.
-To clear all previous values and enter new parameters, click the "Reset" button.
-To close the tool, click the "Close" button.
+1. Open the Excel file and click on the button "Calculate Geometric Requirements for Eye Bars".
+2. Choose the desired calculation option (A or B) and enter the required input parameters.
+3. Click on the "Calculate Dimensions" button to calculate the minimum vertical and horizontal distances from a hole to the wall.
+4. The results will be displayed automatically in the corresponding cells.
+5. To clear all previous values and enter new parameters, click the "Reset" button.
+6. To close the tool, click the "Close" button.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
